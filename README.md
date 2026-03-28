@@ -1,5 +1,19 @@
-## Hi there 👋
+### Backend-Focused Software Developer
 
+
+🎓 **Business Informatics** student at Corvinus University of Budapest
+
+---
+
+⚙️ C#, ASP.NET Core, Entity Framework
+
+🧑‍💻 React, TypeScript
+
+📱 Flutter, Dart
+
+---
+
+[LinkedIn](linkedin.com/in/mark-pasztor)
 <!--
 **pasztor-mark/pasztor-mark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
